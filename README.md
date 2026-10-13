@@ -24,5 +24,12 @@ DONE
 ## References
 
 * Eliptic curve digital signature algorithem EdDSA, cryptographic primitive, to provide strong fast deterministic digital signatures
+* RSA, Rivest, Shamir, Adleman, cryptographic primitive, asymetric encryption, public key for encryption, private key for decryption, secure data transmission, digital signatures, secure key exchange
 * Secure Hash Algorithem SHA, cryptographic primitive, to ensure transmitted or stored data has not been altered
 * Transport Layer Security TLS , security protocol, to provide privacy confidentiality data integrity authentication for other protocols; http https, smtp smtps, ftp ftps, ...
+
+Post quantum cryptography - transition to circa 2030
+* ML-DSA
+* ML-KEM
+* ...
+
