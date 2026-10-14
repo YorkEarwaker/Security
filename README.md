@@ -3,9 +3,9 @@
 stub
 
 See also
-* Application
-* Data
-* Networks
+* Application, in execution
+* Data, at rest
+* Networks, on the wire
 * ...
 
 ## Notes
